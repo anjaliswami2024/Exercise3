@@ -1,3 +1,8 @@
  commit in sub 
+<<<<<<< HEAD
   changes made in main  branch
  another changes made in main branch
+=======
+ changes made inn sub branch
+ another changes made inn sub branch
+>>>>>>> sub
